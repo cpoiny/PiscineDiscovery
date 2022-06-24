@@ -1,0 +1,35 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+.img1
+{
+    height: 1600px;
+    width: 100%;
+    background: url('https://img.fotocommunity.com/rue-deserte-163f0361-c85a-47c4-9c67-eec09c62bae4.jpg?height=1080') no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.img2
+{
+    height: 800px;
+    width: 100%;
+    background-color:black;
+    color: white;
+}
+.img3
+{
+    height: 1200px;
+    width: 100%;
+    background: url('https://geo.img.pmdstatic.net/fit/https.3A.2F.2Fprd-dst-website-statics.2Es3.2Eeu-west-1.2Eamazonaws.2Ecom.2Fcontent.2Fuploads.2F2021.2F01.2FItalie.2Ejpg/1800x675/background-color/ffffff/quality/90/picture.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+p
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

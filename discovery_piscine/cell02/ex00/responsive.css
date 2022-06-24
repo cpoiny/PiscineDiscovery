@@ -1,0 +1,21 @@
+#ete
+{
+    background-color: rgb(235, 235, 50);
+    width:50vw;
+    height:100vh;
+    text-align:center;
+    border: black solid 1px;
+    
+}
+#hiver
+{
+    background-color: rgb(71, 71, 197);
+    width:50vw;
+    height:100vh;
+    text-align:center;
+    border: black solid 1px;
+}
+table
+{
+    border-collapse:collapse;
+}
